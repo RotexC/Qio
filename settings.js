@@ -8,9 +8,9 @@ global.calender = d.toLocaleDateString('id')
 global.prefa = ['','!','.',',','🐤','🗿']
 
                 //SETTINGS OWN//
-global.owner = ['2347082252014']
-global.ownMain = '2347082252014'
-global.NamaOwner = 'Dux'
+global.owner = ['2349114224240']
+global.ownMain = '2349114224240'
+global.NamaOwner = 'Zannyy'
 global.namabot = 'Dux-Bot'
 global.author = 'dux'
 global.packname = 'dux'
